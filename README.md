@@ -1,1 +1,2 @@
-# ZJU_CSE-Digital_Image_Processing_and_Machine_Vision
+# ZJU_CSE
+Digital_Image_Processing_and_Machine_Vision
